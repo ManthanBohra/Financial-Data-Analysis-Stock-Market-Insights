@@ -24,6 +24,7 @@ Stock Market Data: Historical stock prices, trading volumes, and other financial
 <br>
 <hr>
 Key Insights- <br>
+<br>
 Trend Analysis: Identified long-term trends in stock prices and trading volumes.
 
 Moving Averages: Calculated and visualized moving averages to highlight potential buy/sell signals.
