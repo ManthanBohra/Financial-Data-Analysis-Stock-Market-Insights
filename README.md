@@ -13,7 +13,7 @@ Interactive Dashboards: Builds dynamic and interactive dashboards in Power BI to
 
 Insights and Reporting: Generates actionable insights and reports to aid in investment decision-making.
 <br>
-<br>
+<hr>
 Tools and Technologies -<br>
 <br>
 Excel: Data cleaning, transformation, and initial analysis.
@@ -22,7 +22,7 @@ Power BI: Data visualization, interactive dashboards, and advanced analytics.
 
 Stock Market Data: Historical stock prices, trading volumes, and other financial metrics.
 <br>
-<br>
+<hr>
 Key Insights- <br>
 Trend Analysis: Identified long-term trends in stock prices and trading volumes.
 
