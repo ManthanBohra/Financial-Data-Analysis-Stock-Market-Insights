@@ -11,3 +11,11 @@ Data Analysis: Performs exploratory data analysis (EDA) to identify trends, corr
 Interactive Dashboards: Builds dynamic and interactive dashboards in Power BI to visualize key metrics such as stock performance, moving averages, and volume trends.
 
 Insights and Reporting: Generates actionable insights and reports to aid in investment decision-making.
+
+Tools and Technologies -<br>
+<br>
+Excel: Data cleaning, transformation, and initial analysis.
+
+Power BI: Data visualization, interactive dashboards, and advanced analytics.
+
+Stock Market Data: Historical stock prices, trading volumes, and other financial metrics.
