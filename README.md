@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive financial data analysis project focused on extracting insights from stock market data. The project leverages Excel for data cleaning, manipulation, and initial analysis, and Power BI for advanced data visualization and interactive dashboards. The goal is to provide actionable insights into stock market trends, performance metrics, and investment opportunities.
 
-Key Features
+Key Features <br>
 Data Cleaning and Preparation: Utilizes Excel to clean, transform, and prepare raw stock market data for analysis.
 
 Data Analysis: Performs exploratory data analysis (EDA) to identify trends, correlations, and anomalies in stock market data.
