@@ -1,4 +1,6 @@
 # Financial-Data-Analysis-Stock-Market-Insights
+![image](https://github.com/user-attachments/assets/c001ff62-d749-44a2-9cb1-9ac15b77a1fd)
+
 
 This repository contains a comprehensive financial data analysis project focused on extracting insights from stock market data. The project leverages Excel for data cleaning, manipulation, and initial analysis, and Power BI for advanced data visualization and interactive dashboards. The goal is to provide actionable insights into stock market trends, performance metrics, and investment opportunities.
 <hr>
